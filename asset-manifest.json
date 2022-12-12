@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/chesstrainer/static/css/main.c9411045.css",
+    "main.css": "/chesstrainer/static/css/main.c99e6514.css",
     "main.js": "/chesstrainer/static/js/main.ca5f184d.js",
     "static/js/787.59f7d3da.chunk.js": "/chesstrainer/static/js/787.59f7d3da.chunk.js",
     "static/media/logo.svg": "/chesstrainer/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/chesstrainer/index.html",
-    "main.c9411045.css.map": "/chesstrainer/static/css/main.c9411045.css.map",
+    "main.c99e6514.css.map": "/chesstrainer/static/css/main.c99e6514.css.map",
     "main.ca5f184d.js.map": "/chesstrainer/static/js/main.ca5f184d.js.map",
     "787.59f7d3da.chunk.js.map": "/chesstrainer/static/js/787.59f7d3da.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c9411045.css",
+    "static/css/main.c99e6514.css",
     "static/js/main.ca5f184d.js"
   ]
 }
