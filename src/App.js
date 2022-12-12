@@ -46,7 +46,7 @@ function App() {
   }
 
   return (
-    <div>
+    <div className='Wrapper'>
       <div className="Cell">{coordniate}</div>
       <div 
         className={state === 1  ? "CellCorrect" : "Hide"} 
