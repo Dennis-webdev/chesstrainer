@@ -36,3 +36,73 @@
     transform: rotate(360deg);
   }
 }
+
+/****************************************/
+
+.Cell {
+  background-color: #f2f1f1;
+  text-align: center;
+  font-size: 56pt;
+  color: #282c34;
+  line-height: 200px;
+  user-select: none;
+  height: 200px;
+  width: 200px;
+}
+
+.Hide {
+  display: none;
+}
+
+.CellCorrect {
+  content: "✓";
+  position: absolute;
+  top: 0;
+  text-align: center;
+  font-size: 80pt;
+  color: #5ed100;
+  line-height: 200px;
+  user-select: none;
+  height: 200px;
+  width: 200px;
+}
+
+.CellNotCorrect {
+  content: "✕";
+  position: absolute;
+  top: 0;
+  text-align: center;
+  font-size: 80pt;
+  color: #bd0303;
+  line-height: 200px;
+  user-select: none;
+  height: 200px;
+  width: 200px;
+}
+
+.ButtonRow {
+  display: flex;
+  background-color: #282c34;
+  text-decoration: none;
+  width: 200px;
+}
+
+.ButtonBlack {
+  text-align: center;
+  background-color: #282c34;
+  border: 2px solid #282c34;
+  border-radius: 5px;
+  user-select: none;
+  padding: 5px;
+  width: 100px;
+}
+
+.ButtonWhite {
+  text-align: center;
+  background-color: #f2f1f1;
+  border: 2px solid #282c34;
+  border-radius: 5px;
+  user-select: none;
+  padding: 5px;
+  width: 100px;
+}
